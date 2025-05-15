@@ -178,7 +178,7 @@ Ready to launch your blockchain business or integrate Web3 into your existing op
 
 - 📧 **Email**: metadevxi@gmail.com
 - 💬 **Telegram**: @metaDevxi
-- 🌐 **Website**: 0xtech.guru
+- 🌐 **Website**: 0xtech.org
 
 ## ⚠️ Disclaimer
 
