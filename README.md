@@ -1,6 +1,6 @@
 # BlockchainSolutions: Premium White-Label Web3 Infrastructure
 
-![Blockchain Solutions Banner](https://0xtech.guru/images/logo.png)
+![Blockchain Solutions Banner](https://0xtech.org/images/logo.png)
 
 ## 🚀 About Us
 
